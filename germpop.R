@@ -1,0 +1,10 @@
+library(ggplot2)
+gerpop = read.csv("C:/Users/Elaine/Documents/german population/Results.csv", header = TRUE, nrow = 19)
+View(gerpop)
+names(gerpop)
+gerpop = subset(gerpop, select = c(period, data))
+gerpop$period = gsub("YEAR", "", as.character(gerpop$period))
+gerpop$period = as.numeric(gerpop$period)
+plot = ggplot(data = gerpop, aes(x = period, y = data, group = 1)) + geom_line(size = 1.5, color = "blue") + scale_x_continuous(breaks = seq(2000, 2018, 2))
+plot
+plot = plot + labs(title = "German mid year population estimate", x = "Year", y = "Population in '000", caption = "https://unstats.un.org") + theme_dark()

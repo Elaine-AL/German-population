@@ -1,0 +1,25 @@
+country,country_code,series,seriescode,measure,period,D1,D2,D3,data,footnoteref
+Germany,276,Population - Estimates of mid-year population,0101,(thousands),      2018YEAR,de jure,,,             82792,/1505/2081
+Germany,276,Population - Estimates of mid-year population,0101,(thousands),      2017YEAR,de jure,,,             82657,/2014/2081
+Germany,276,Population - Estimates of mid-year population,0101,(thousands),      2016YEAR,de jure,,,             82349,/2014/2081
+Germany,276,Population - Estimates of mid-year population,0101,(thousands),      2015YEAR,de jure,,,             81687,/2081
+Germany,276,Population - Estimates of mid-year population,0101,(thousands),      2014YEAR,de jure,,,             80983,/2081
+Germany,276,Population - Estimates of mid-year population,0101,(thousands),      2013YEAR,de jure,,,             80646,/2081
+Germany,276,Population - Estimates of mid-year population,0101,(thousands),      2012YEAR,de jure,,,             80426,/2081
+Germany,276,Population - Estimates of mid-year population,0101,(thousands),      2011YEAR,de jure,,,             80275,/2081
+Germany,276,Population - Estimates of mid-year population,0101,(thousands),      2010YEAR,de jure,,,             81757,
+Germany,276,Population - Estimates of mid-year population,0101,(thousands),      2009YEAR,de jure,,,             81875,
+Germany,276,Population - Estimates of mid-year population,0101,(thousands),      2008YEAR,de jure,,,             82120,
+Germany,276,Population - Estimates of mid-year population,0101,(thousands),      2007YEAR,de jure,,,             82263,
+Germany,276,Population - Estimates of mid-year population,0101,(thousands),      2006YEAR,de jure,,,             82366,
+Germany,276,Population - Estimates of mid-year population,0101,(thousands),      2005YEAR,de jure,,,             82464,
+Germany,276,Population - Estimates of mid-year population,0101,(thousands),      2004YEAR,de jure,,,             82501,
+Germany,276,Population - Estimates of mid-year population,0101,(thousands),      2003YEAR,de jure,,,             82520,
+Germany,276,Population - Estimates of mid-year population,0101,(thousands),      2002YEAR,de jure,,,             82482,
+Germany,276,Population - Estimates of mid-year population,0101,(thousands),      2001YEAR,de jure,,,             82340,
+Germany,276,Population - Estimates of mid-year population,0101,(thousands),      2000YEAR,de jure,,,             82188,
+
+ Footnotes 
+1505,Data refer to 1 January.,
+2014,Data refer to annual average population.,
+2081,Data based on the 2011 Census.,
